@@ -1,6 +1,6 @@
 - 👋 Hello, my name is Ivan also know as @qwerio.
-- 👀 I’m interested in developing software related stuff.
-- 🌱 I’m currently trying to find what makes me happy.
+- 👀 I’m interested in solving problems.
+- 🌱 I’m currently trying to find what i want to do in the future.
 
 
 
