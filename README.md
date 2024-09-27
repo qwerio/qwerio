@@ -1,6 +1,8 @@
-- 👋 Hello, my name is Ivan, also known as @qwerio.
+- 👋 Hello, my name is Ivan.
 - 👀 I am interested in solving problems and helping others.
 - 🌱 I am currently in the process of determining my future career path.
+
+- p.s. I may have found one
 
 
 
